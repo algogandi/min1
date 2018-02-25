@@ -18,6 +18,10 @@
                 </div>
 
                 <div class="form-group">
+                    <label for="email">Subject</label>
+                    <input name="subject" type="subject" class="form-control" id="subject" placeholder="subject">
+                </div>
+                <div class="form-group">
                     <label for="body">Write your needs</label>
                     <textarea name="body" class="form-control" id="body" rows="3"></textarea>
                 </div>
